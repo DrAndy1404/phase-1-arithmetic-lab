@@ -8,7 +8,7 @@ var random = Math.floor(Math.random() * 100) + 1;
 
 // 3) is an equation that calculates a remainder that is equal to 4
 var num3 = 17;
-var num4 = 13; // Assuming num4 value, change accordingly
+var num4 = 13; 
 var mod = num3 % num4;
 
 //  4) will return 20 as the highest number in the set
